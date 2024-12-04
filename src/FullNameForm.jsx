@@ -14,7 +14,7 @@ const FullNameForm = () => {
 
   return (
     <div>
-      <h1>Enter Your Details</h1>
+      <h1>Full Name Display</h1>
       {/* Form Element */}
       <form onSubmit={handleSubmit}>
         {/* Full Name Label and Input */}
